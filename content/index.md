@@ -17,9 +17,12 @@ Essential concepts for protecting systems, data, and networks from threats and v
 ### Networking
 Fundamentals of network architecture, protocols, and infrastructure design.
 
-### Linux
+### [Linux](https://ideal-telegram-rw9jv95gvj9255g7-8080.app.github.dev/linux/)
 Practical guides for system administration, command-line mastery, and server management.
 
+
+### [Programming](https://ideal-telegram-rw9jv95gvj9255g7-8080.app.github.dev/programming/)
+Understanding distributed ledgers, smart contracts, and decentralized systems.
 ### Blockchain
 Understanding distributed ledgers, smart contracts, and decentralized systems.
 
