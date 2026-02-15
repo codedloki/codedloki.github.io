@@ -15,6 +15,10 @@ tags:
 
 ## INTRODUCTION
 
+<div align="center">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzIjVzgKZMDRSJNtM16EEVMu3bNTykbG8NIw&s" alt="vboxubuntu" width="600"/>
+</div>
+
 VM or Virtual Machines are system running  isolated from your host system but making use of ur hardware such as cpu and storage
 
 This is Simple guide here to help u intall  a linux system  as virtual machine  
