@@ -8,12 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "BreachBlock",
+    pageTitleSuffix: "| codedloki",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
-      provider: "plausible",
+      provider: "google",
+      tagId: "G-GYY594ZJQ9",
     },
     locale: "en-US",
     baseUrl: "codedloki.github.io",
