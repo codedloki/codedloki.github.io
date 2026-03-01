@@ -1,3 +1,3 @@
 ---
-title: CCNA Series
+title: "CCNA SERIES"
 ---
