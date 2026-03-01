@@ -18,12 +18,12 @@ date: 16-02-2026
 
 
 
-| Layers              | Explaination | components                 |
-| ------------------- | ------------ | -------------------------- |
-| Physical Layer      |              | data cables,cat6 cables    |
-| Data link layer     |              | Switching ,Macaddress      |
-| Network     Layers  |              | Ip addresss, Network layer |
-| Transport Layer     |              | TCP and UDP                |
-| Session layer       |              | session management         |
-| Presentation Layer  |              | WMV,JPEG                   |
-| Application   Layer |              | HTTP,SMTP                  |
+| Layers              | components                 |
+| ------------------- | -------------------------- |
+| Physical Layer      | data cables,cat6 cables    |
+| Data link layer     | Switching ,Macaddress      |
+| Network     Layers  | Ip addresss, Network layer |
+| Transport Layer     | TCP and UDP                |
+| Session layer       | session management         |
+| Presentation Layer  | WMV,JPEG                   |
+| Application   Layer |  HTTP,SMTP                  |
