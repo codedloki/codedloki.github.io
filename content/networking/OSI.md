@@ -7,6 +7,9 @@ date: 16-02-2026
 
 # OSI MODEL
 
+
+<img src="https://www.network-supply.com/cdn/shop/articles/ChatGPT_Image_Sep_15_2025_11_29_37_AM.png?v=1757953612" alt="osimodel" width=800>
+
 <abbr title="Open System Interconnection"> OSI </abbr> MODEL is  conceptual framework used to understand how data travels from one computer to another over network breaking complex process of networking in small logical layers
 
 
