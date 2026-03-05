@@ -20,7 +20,7 @@ A computer network is a digital communication network which allow nodes to share
 
 Routers are used to connect switches to LANs over internet 
 
-<a href="https://ibb.co/Wvz5M2YK"><img src="https://i.ibb.co/Wvz5M2YK/router.png" alt="router" width="600" border="0"></a>
+<a href="https://ibb.co/Wvz5M2YK"><img src="https://i.ibb.co/Wvz5M2YK/router.png" alt="router"  border="0"></a>
 
 
 
