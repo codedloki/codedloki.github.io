@@ -7,7 +7,7 @@ title: "Networking Devices"
 ## What is Computer Network ?
 
 A computer network is a digital communication network which allows nodes to share resources 
-=======
+
 ## What is Computer Networks ?
 
 A computer network is a digital communication network which allow nodes to share resources
@@ -20,7 +20,7 @@ A computer network is a digital communication network which allow nodes to share
 
 Routers are used to connect switches to LANs over internet 
 
-<img src="../../images/router.png" alt="router" width="600"/>
+<img src="/images/router.png" alt="router" width="600"/>
 
 
 
@@ -69,4 +69,4 @@ A client can be any device eg : laptop , desktop pc , or smart phones
 
 
 Connecting (Wired Or wirelessly)  minimum two pc together can make a network  now these pc's  can share resources and can have conversation with each other
->>>>>>> 1464e20 (CCNA SERIES)
+
