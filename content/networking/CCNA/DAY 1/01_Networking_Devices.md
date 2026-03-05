@@ -23,6 +23,19 @@ Routers are used to connect switches to LANs over internet
 <a href="https://ibb.co/Wvz5M2YK"><img src="https://i.ibb.co/Wvz5M2YK/router.png" alt="router"  border="0"></a>
 
 
+eg of routers
+
+ISR 1000, ISR 900 , ISR 4000
+
+ISR 1000 and ISR 4000 have their interfaces on back where as ISR 900 have interface on the frontend 
+
+Characteristics of Routers
+
++ Have fewer interfaces than switches
++ used to provide connectivity between lans
++ Used to send data over internet
+
+
 
 
 
@@ -44,14 +57,26 @@ Chatacteristics of Switches
 
 
 #### FIREWALL
+A Firewall are special network security devices that  control  network traffic entering and exiting network.Firewall can be placed inside the network or outside the network .Firewall must be configured with proper security rules
+
+eg of Firewalls
+
+ASA500-X, FirePower 2100 
+
+Characteristics of Firewall:
++ monitor and control traffic based on configured network rules
++ can be place inside the network or outside the network
++ Firewalls are known as NextGen Firewalll when they include modern and advanced filtering  capabilities
 
 ##### SOFTWARE FIREWALL
 
-Firewall Installed on a system is a Software Firewall with no external device or node on network
+Firewall Installed on a system is a Software Firewall with no external device or node on network.  Also known as Host Based Firewalls
 
 ##### HARDWARE FIREWALL
 
-Hardware based firewall is node on network 
+Hardware based firewall is node on network . Also Known as Network Firewalls
+
+
 
 
 #### SERVERS
