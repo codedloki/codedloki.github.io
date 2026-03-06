@@ -59,9 +59,14 @@ Chatacteristics of Switches
 #### FIREWALL
 A Firewall are special network security devices that  control  network traffic entering and exiting network.Firewall can be placed inside the network or outside the network .Firewall must be configured with proper security rules
 
+
+
 eg of Firewalls
 
 ASA500-X, FirePower 2100 
+
+
+[![qoEc311.md.png](https://iili.io/qoEc311.md.png)](https://freeimage.host/i/qoEc311)
 
 Characteristics of Firewall:
 + monitor and control traffic based on configured network rules
