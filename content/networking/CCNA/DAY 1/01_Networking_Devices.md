@@ -41,6 +41,9 @@ Characteristics of Routers
 
 #### SWITCH
 
+
+[![qoGFCqN.md.png](https://iili.io/qoGFCqN.md.png)](https://freeimage.host/i/qoGFCqN)
+
 Nodes in network are not directly connected to the servers instead they are connected to a network device called Switch. A switch has many interfaces 
 
 It is used to carry out communication between system on LAN (Local Area Network)
