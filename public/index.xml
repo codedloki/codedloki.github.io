@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+    <channel>
+      <title>BreachBlock</title>
+      <link>https://codedloki.github.io</link>
+      <description>Last 10 notes on BreachBlock</description>
+      <generator>Quartz -- quartz.jzhao.xyz</generator>
+      <item>
+    <title>OSI MODEL</title>
+    <link>https://codedloki.github.io/networking/OSI</link>
+    <guid>https://codedloki.github.io/networking/OSI</guid>
+    <description><![CDATA[ OSI MODEL OSI MODEL is conceptual framework used to understand how data travels from one computer to another over network breaking complex process of networking in small logical layers LAYERS OF OSI MODEL LayersExplainationcomponentsPhysical Layerdata cables,cat6 cablesData link layerSwitching ,Maca... ]]></description>
+    <pubDate>Mon, 16 Feb 2026 20:21:34 GMT</pubDate>
+  </item><item>
+    <title>01_Basics of Python</title>
+    <link>https://codedloki.github.io/programming/python/basics</link>
+    <guid>https://codedloki.github.io/programming/python/basics</guid>
+    <description><![CDATA[ Basis fundamentals of pyton ]]></description>
+    <pubDate>Mon, 16 Feb 2026 20:16:16 GMT</pubDate>
+  </item><item>
+    <title>Regular Expressions in python</title>
+    <link>https://codedloki.github.io/programming/python/03_Regex</link>
+    <guid>https://codedloki.github.io/programming/python/03_Regex</guid>
+    <description><![CDATA[ INTRODUCTION Patterns are widely used in our day to day life . ]]></description>
+    <pubDate>Mon, 16 Feb 2026 20:16:16 GMT</pubDate>
+  </item><item>
+    <title>Setup Linux Environment in Windows (VirtualBox)</title>
+    <link>https://codedloki.github.io/linux/setup</link>
+    <guid>https://codedloki.github.io/linux/setup</guid>
+    <description><![CDATA[ A guide to setup a linux envirnoment on windows machine using virtual box ]]></description>
+    <pubDate>Mon, 16 Feb 2026 20:16:16 GMT</pubDate>
+  </item><item>
+    <title>Networking</title>
+    <link>https://codedloki.github.io/networking/</link>
+    <guid>https://codedloki.github.io/networking/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Mon, 16 Feb 2026 20:06:51 GMT</pubDate>
+  </item><item>
+    <title>00_Setting up python</title>
+    <link>https://codedloki.github.io/programming/python/setup</link>
+    <guid>https://codedloki.github.io/programming/python/setup</guid>
+    <description><![CDATA[ Python Setup This is simple guide to install python in Windows and Linux FOR WINDOWS Step 1 : Download the python3 or latest installer for windows Download Python3 for windows Step 2 : Run the Executable file and Start the installation For Linux. ]]></description>
+    <pubDate>Mon, 16 Feb 2026 03:25:03 GMT</pubDate>
+  </item><item>
+    <title>Welcome to BleachBlock</title>
+    <link>https://codedloki.github.io/</link>
+    <guid>https://codedloki.github.io/</guid>
+    <description><![CDATA[ Introduction to Cybersecurity, Networking, Linux, and Blockchain Welcome This blog explores the intersection of cybersecurity, networking, Linux, and blockchain technologies. ]]></description>
+    <pubDate>Sun, 15 Feb 2026 18:31:09 GMT</pubDate>
+  </item><item>
+    <title>Python</title>
+    <link>https://codedloki.github.io/programming/python/</link>
+    <guid>https://codedloki.github.io/programming/python/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Feb 2026 18:30:23 GMT</pubDate>
+  </item><item>
+    <title>Programming</title>
+    <link>https://codedloki.github.io/programming/</link>
+    <guid>https://codedloki.github.io/programming/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Feb 2026 14:05:15 GMT</pubDate>
+  </item><item>
+    <title>Linux</title>
+    <link>https://codedloki.github.io/linux/</link>
+    <guid>https://codedloki.github.io/linux/</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Sun, 15 Feb 2026 13:29:38 GMT</pubDate>
+  </item>
+    </channel>
+  </rss>
