@@ -85,7 +85,7 @@ ASA500-X, FirePower 2100
 
     * HARDWARE FIREWALL
 
-    -  Hardware based firewall is node on network . Also Known as Network Firewalls
+        -  Hardware based firewall is node on network . Also Known as Network Firewalls
 
 
 
