@@ -15,11 +15,20 @@ Cisco Packet Tracer is a network simulation tool that allows you to design, conf
 
 ### Installation For Arch Linux
 
-1. Download Cisco Packet Tracer from the [official Cisco website](https://www.netacad.com/cisco-packet-tracer) or [My Drive](https://drive.proton.me/urls/KGA98TKYP4#sitWOO8ikXBP)   
+1. Download Cisco Packet Tracer from the  [My Drive](https://drive.proton.me/urls/KGA98TKYP4#sitWOO8ikXBP)   
 2. Clone the repo [Packet Tracer](https://gitlab.com/fr0stb1rd/aur-packettracer-900.git)
 
 ```bash
 git clone https://gitlab.com/fr0stb1rd/aur-packettracer-900.git
+
+```
+
+
+> NOTE : move the deb file of cisco packet tracer  to aur-packettracer-900 directory
+
+
+3. 
+```
 cd aur-packettracer-900
 makepkg -sirc
 ```
@@ -27,7 +36,7 @@ makepkg -sirc
 
 
 
-3. Create  A desktop file   to create icon in the menu
+4. Create  A desktop file   to create icon in the menu
 
 packettracer.desktop
 
@@ -42,16 +51,14 @@ Category=Network;
 ```
 
 
-4. Move the file to folder `/usr/share/applications` 
+5. Move the file to folder `/usr/share/applications` 
 
 ```bash
 mv packettracer.desktop /usr/share/applications
 ```
 
 
-5. Update the desktop menu database 
-
-
+6. Update the desktop menu database 
 
 ```bash
 
