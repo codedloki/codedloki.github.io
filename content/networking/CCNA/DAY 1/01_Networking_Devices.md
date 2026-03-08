@@ -76,13 +76,14 @@ ASA500-X, FirePower 2100
     + can be place inside the network or outside the network
     + Firewalls are known as NextGen Firewalll when they include modern and advanced filtering  capabilities
 
-* SOFTWARE FIREWALL
+* Types Of Firewall
+    * SOFTWARE FIREWALL
 
-    - Firewall Installed on a system is a Software Firewall with no external device or node on network.  Also known as Host Based Firewalls
+        - Firewall Installed on a system is a Software Firewall with no external device or node on network.  Also known as Host Based Firewalls
 
-* HARDWARE FIREWALL
+    * HARDWARE FIREWALL
 
-  -  Hardware based firewall is node on network . Also Known as Network Firewalls
+    -  Hardware based firewall is node on network . Also Known as Network Firewalls
 
 
 
