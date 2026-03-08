@@ -27,7 +27,6 @@ git clone https://gitlab.com/fr0stb1rd/aur-packettracer-900.git
 > NOTE : move the deb file of cisco packet tracer  to aur-packettracer-900 directory
 
 
-3. 
 ```
 cd aur-packettracer-900
 makepkg -sirc
@@ -36,7 +35,7 @@ makepkg -sirc
 
 
 
-4. Create  A desktop file   to create icon in the menu
+3. Create  A desktop file   to create icon in the menu
 
 packettracer.desktop
 
@@ -51,14 +50,14 @@ Category=Network;
 ```
 
 
-5. Move the file to folder `/usr/share/applications` 
+4. Move the file to folder `/usr/share/applications` 
 
 ```bash
 mv packettracer.desktop /usr/share/applications
 ```
 
 
-6. Update the desktop menu database 
+5. Update the desktop menu database 
 
 ```bash
 
