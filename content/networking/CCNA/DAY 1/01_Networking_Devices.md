@@ -76,6 +76,8 @@ ASA500-X, FirePower 2100
     + can be place inside the network or outside the network
     + Firewalls are known as NextGen Firewalll when they include modern and advanced filtering  capabilities
 
+
+<br/><br/>
 * Types Of Firewall
     * SOFTWARE FIREWALL
 
