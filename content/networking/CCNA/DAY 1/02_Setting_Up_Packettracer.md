@@ -5,6 +5,11 @@ title: "Setting Up Cisco Packet Tracer"
 
 
 
+![Cisco Packet Tracer](https://i.ytimg.com/vi/qIaNA1PKWKw/hq720.jpg)
+
+## Overview
+
+Cisco Packet Tracer is a network simulation tool that allows you to design, configure, and troubleshoot network topologies. This guide covers installation on Arch Linux distributions.
 
 
 
