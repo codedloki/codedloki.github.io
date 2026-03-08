@@ -20,7 +20,6 @@ Cisco Packet Tracer is a network simulation tool that allows you to design, conf
 
 ```bash
 git clone https://gitlab.com/fr0stb1rd/aur-packettracer-900.git
-
 ```
 
 
@@ -60,6 +59,5 @@ mv packettracer.desktop /usr/share/applications
 -  Update the desktop menu database 
 
 ```bash
-
 sudo update-desktop-database
 ```
