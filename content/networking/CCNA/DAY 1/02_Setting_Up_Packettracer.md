@@ -24,10 +24,10 @@ git clone https://gitlab.com/fr0stb1rd/aur-packettracer-900.git
 ```
 
 
-> NOTE : move the deb file of cisco packet tracer  to aur-packettracer-900 directory
+> NOTE : move the deb file of cisco packet tracer  to aur-packettracer-900 directory and then build the source code 
 
 
-```
+```bash 
 cd aur-packettracer-900
 makepkg -sirc
 ```
