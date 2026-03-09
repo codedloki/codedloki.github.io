@@ -52,10 +52,22 @@ Connection and communication in a network occur at set speed .This speed are mea
 
 ## Ethernet Standards
 
-- Defined in iEE 802.13  standard in 1983
+- Defined in IEEE 802.13  standard in 1983
 - IEEE stands Institute of Electorical and Electronices engineering 
+
+
+
+
+[![quXegQs.md.png](https://iili.io/quXegQs.md.png)](https://freeimage.host/i/quXegQs)
+
+> Note : Base  denotes baseband signal and T denotes twisted pair cable 
 
 ## Words above interface (switch)
 
 
 [![qu0QiMu.md.png](https://iili.io/qu0QiMu.md.png)](https://freeimage.host/i/qu0QiMu)
+
+
+
+
+
