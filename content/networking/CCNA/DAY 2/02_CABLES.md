@@ -32,13 +32,17 @@ No  Cables  in UTP ethernet
 
 
 
-Full Duplex Connection
+- ## Full Duplex Connection &  Straight through cable && Connection between host and switch
 
 
 [![q7rxiV1.md.png](https://iili.io/q7rxiV1.md.png)](https://freeimage.host/i/q7rxiV1)
 
 
 
+
+
+
+- ## Crossover cable
 
 
 
