@@ -41,13 +41,49 @@ Full Duplex connection is connection where transmission and receiving of data at
 <br/>
 Fig 1.0 Connection between host and switch
 
+<br/>
+
+For between Host and Switch
+
+Host :
+    Transmit pin : 1,2
+    Receive port : 3,6
+
+Switch :
+    Transmit port : 3,6
+    Receive port : 1,2
+
+
 
 [![q01552n.md.png](https://iili.io/q01552n.md.png)](https://freeimage.host/i/q01552n)
 <br/>
 Fig 1.1 Connection between switch and router
 
 
+
+
+router :
+    Transmit pin : 1,2
+    Receive port : 3,6
+
+Switch :
+    Transmit port : 3,6
+    Receive port : 1,2
+
+
+In these connection straight through cable is used for connection where the transmit port and receive port are alternate for both devices 
+
+
+    
 - ### Crossover cable
+
+Crossover cables are used to connect two similar devices in network like connect two router to each other or two switches to each other 
+
+
+[![q0V5tF2.md.png](https://iili.io/q0V5tF2.md.png)](https://freeimage.host/i/q0V5tF2)
+
+
+fig 1.3 connection between two routers
 
 
 
