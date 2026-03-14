@@ -31,8 +31,9 @@ No  Cables  in UTP ethernet
 - 1000 BASE-T and 10GBASE-T have 4 pairs (8 wires)
 
 
+## Types Of Cables :
 
-## Full Duplex Connection &  Straight through cable && Connection between host and switch
+- ### Full Duplex Connection &  Straight through cable && Connection between host and switch
 
 
 [![q7rxiV1.md.png](https://iili.io/q7rxiV1.md.png)](https://freeimage.host/i/q7rxiV1)
@@ -42,7 +43,7 @@ No  Cables  in UTP ethernet
 
 
 
-- ## Crossover cable
+- ### Crossover cable
 
 
 
