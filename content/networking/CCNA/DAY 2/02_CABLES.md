@@ -38,10 +38,12 @@ No  Cables  in UTP ethernet
 Full Duplex connection is connection where transmission and receiving of data at same time . They use seperate wires for sending and receiving data  so the problem of data collision is avoided 
 
 [![q7rxiV1.md.png](https://iili.io/q7rxiV1.md.png)](https://freeimage.host/i/q7rxiV1)
+<br/>
 Fig 1.0 Connection between host and switch
 
 
 [![q01552n.md.png](https://iili.io/q01552n.md.png)](https://freeimage.host/i/q01552n)
+<br/>
 Fig 1.1 Connection between switch and router
 
 
